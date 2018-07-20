@@ -46,6 +46,9 @@ public class TransientTest {
     }
 }
 
+/**
+ * https://blog.csdn.net/felcon/article/details/51839453 maven项目改变jdk版本
+ */
 class User implements Serializable {
     private static final long serialVersionUID = -4679557854112699643L;
 
