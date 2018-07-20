@@ -1,4 +1,4 @@
-package github.chapter1;
+package com.github.chapter1;
 
 /**
  * 这个程序的结果是正确的，但由于写错了一个字符，运行的结果要比实际慢很多。

@@ -1,4 +1,4 @@
-package github.chapter1;
+package com.github.chapter1;
 
 /**
  * enum 的全称为 enumeration， 是 JDK 1.5 中引入的新特性。

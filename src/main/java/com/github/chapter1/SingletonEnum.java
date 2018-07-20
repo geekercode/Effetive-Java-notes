@@ -1,4 +1,4 @@
-package github.chapter1;
+package com.github.chapter1;
 
 /**
  * 利用单元素的枚举来实现单例（Singleton），绝对防止多次实例化

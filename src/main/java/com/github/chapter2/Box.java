@@ -1,4 +1,4 @@
-package github.chapter2;
+package com.github.chapter2;
 
 import java.util.HashMap;
 import java.util.Map;

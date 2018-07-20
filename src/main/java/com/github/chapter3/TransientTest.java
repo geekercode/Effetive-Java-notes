@@ -1,4 +1,4 @@
-package github.chapter3;
+package com.github.chapter3;
 
 import java.io.*;
 

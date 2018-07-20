@@ -1,4 +1,4 @@
-package github.chapter2;
+package com.github.chapter2;
 
 /**
  * https://blog.csdn.net/zhangjg_blog/article/details/18369201

@@ -1,4 +1,4 @@
-package github.chapter1;
+package com.github.chapter1;
 
 /**
  * 缺少显式构造器的情况下，编译器会自动提供一个公有的、无参的缺省构造器（dafault constructor），

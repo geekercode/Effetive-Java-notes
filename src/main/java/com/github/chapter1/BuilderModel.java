@@ -1,4 +1,4 @@
-package github.chapter1;
+package com.github.chapter1;
 /**
  * 遇到多个构造器参数考虑用构建器(Builder)
  * Builder模式十分灵活，可以利用单个builder构建多个对象。builder的参数可以在创建对象期间进行调整，也可以随着不同的对象而改变。

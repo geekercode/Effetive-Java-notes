@@ -1,4 +1,4 @@
-package github.chapter2;
+package com.github.chapter2;
 
 /**
  * 实现对象的拷贝的好办法是提供一个拷贝构造器(copy constructor)或者拷贝工厂(copy factory)

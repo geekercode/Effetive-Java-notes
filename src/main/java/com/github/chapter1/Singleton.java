@@ -1,4 +1,4 @@
-package github.chapter1;
+package com.github.chapter1;
 
 public class Singleton {
 }
