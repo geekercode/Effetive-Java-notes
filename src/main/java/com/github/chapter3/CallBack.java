@@ -38,6 +38,10 @@ class Slave implements CallBack {
         System.out.println("告知工作已经完成了");
     }
 
+    /**
+     * 这个被调用的类继承了协商好的接口，然后在其中实现被调用的方法，也就是接口中的doEvent方法。 最后就是完成整个回调的调用流程：
+     * @param args
+     */
     public static void main(String[] args) {
         //创建回调对象实例
         Slave slave = new Slave();
