@@ -3,7 +3,7 @@ package com.github.chapter4;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
+/** 通配类型是安全的，而原生态类型不安全。
  * A:原生态类型如 List:不带任何类型参数的泛型名称
    B:参数化类型如List<String> ：表示元素类型为String的列表
    C:无限制的通配符类型如List<?>:表示元素为未知类型
