@@ -1,6 +1,7 @@
 package com.github.chapter4;
 
 /**
+ * https://www.cnblogs.com/shijiaqi1066/p/3441445.html
  * Java语言引入泛型的好处是安全简单。泛型的好处是在编译的时候检查类型安全，
  * 并且所有的强制转换都是自动和隐式的，提高代码的重用率。
  * Created by jhys on 2018/7/26
